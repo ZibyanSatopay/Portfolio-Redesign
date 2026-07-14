@@ -195,7 +195,6 @@ export const EDUCATION = [
 
 export const CONTACT_INFO = {
   email: 'zibyanwork@gmail.com',
-  phone: '+91 9821831808',
   linkedin: 'https://www.linkedin.com/in/zibyan1903',
   github: 'https://github.com/zibyan',
 }
