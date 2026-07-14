@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npx:*)",
+      "Bash(xcopy /E /Y /I \"C:\\\\Zibyan\\\\Portfolio\\\\portfolio-temp\\\\*\" \"C:\\\\Zibyan\\\\Portfolio\"\" 2>&1 && rmdir /S /Q \"C:ZibyanPortfolioportfolio-temp \")",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(node:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
