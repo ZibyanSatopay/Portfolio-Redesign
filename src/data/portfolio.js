@@ -189,7 +189,7 @@ export const PROFILE_POINTS = [
 ]
 
 export const EDUCATION = [
-  { degree: 'Bachelor of Computer Science', status: 'Final year · 2026', icon: 'BSc' },
+  { degree: 'Bachelor of Computer Science', status: 'Completed · 2026', icon: 'BSc' },
   { degree: 'Diploma in Computer Science', status: 'Completed · 2023', icon: 'DCS' },
 ]
 
